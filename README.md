@@ -1,2 +1,2 @@
-# laughing-memory
+# POMDP
 MDL Assignment3
