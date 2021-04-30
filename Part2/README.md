@@ -139,6 +139,14 @@ otherwise b(s) = 0.
 # Question 3
 
 
+![p1](./images/q3-1.png)
+
+
+![p2](./images/q3-2.png)
+
+
+![p3](./images/q3-4.png)
+
 
 # Question 4
 
